@@ -8,7 +8,7 @@
     <ul>
       <li>
         <i class="fa fa-user-circle-o fa-lg fa-fw"></i>
-        <a href="http://mywebsite.com" target="_blank">https://mywebsite.com</a>
+        <a href="https://itay.pages.dev" target="_blank">itay.pages.dev</a>
       </li>
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
@@ -24,7 +24,7 @@
       </li>
       <li>
         <i class="fa fa-gamepad fa-lg fa-fw"></i>
-        <a href="https://myself.itch.io" target="_blank">myself.itch.io</a>
+        <a href="https://itay113.itch.io" target="_blank">itay113.itch.io</a>
       </li>
     </ul>
 
