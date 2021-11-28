@@ -55,10 +55,10 @@ export default [
     </div>
 
     <div class="paragraph center">
-    <img class="pc-screenshot" src="img/projects/gameimg1.png" alt="Code Name: Mission Unknown Screenshot 1" />
-    <img class="pc-screenshot" src="img/projects/gameimg2.png" alt="Code Name: Mission Unknown Screenshot 2" />
-    <img class="pc-screenshot" src="img/projects/gameimg3.png" alt="Code Name: Mission Unknown Screenshot 3" />
-    <img class="pc-screenshot" src="img/projects/gameimg4.png" alt="Code Name: Mission Unknown Screenshot 4" />
+    <img class="pc-screenshot" src="img/projects/riseupimg1.png" alt="Fly Up! Screenshot 1" />
+    <img class="pc-screenshot" src="img/projects/riseupimg2.png" alt="Fly Up! Screenshot 2" />
+    <img class="pc-screenshot" src="img/projects/riseupimg3.png" alt="Fly Up! Screenshot 3" />
+    <img class="pc-screenshot" src="img/projects/riseupimg4.png" alt="Fly Up! Screenshot 4" />
     </div>
     `, "#5a78af")
     // new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
