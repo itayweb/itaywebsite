@@ -15,7 +15,7 @@ export default [
             <div class="paragraph center">
                 <img class="pc-screenshot" src="img/projects/mycalcimg1.png" alt="MyCalc Screenshot"/>
             </div>`, "#91918e"),
-    new ProjectData("project-7", "MyDo", "img/projects/mydoicon.png", `
+    new ProjectData("project-7", "MyDo", "img/projects/MyDoIcon.png", `
     <div class="paragraph">
                 <strong>MyDo</strong> is a basic CRUD (Create, Read, Update and Delete) app that I created to learn about sql and working with it with C# app
             </div>

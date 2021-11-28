@@ -3,7 +3,7 @@
     
     <h1>Let's hang out</h1>
 
-    <div style="margin-bottom:40px;">I'm looking for a job !<br/>Feel free to contact itayweb about any opportunity.</div>
+    <div style="margin-bottom:40px;">I'm looking for a job !<br/>Feel free to contact me about any opportunity.</div>
 
     <ul>
       <li>

@@ -50,7 +50,7 @@ export default [
 
     <div class="paragraph">
     <div class="notice">
-        The game is available to download on <a href="https://eshgames.itch.io/code-name-mission-unknown" target="_blank">itch.io</a>, currently only for Windows and Android
+        The game is available to download on <a href="https://itay113.itch.io/" target="_blank">itch.io(not yet uploaded)</a>, currently only for Windows and Android
     </div>
     </div>
 
